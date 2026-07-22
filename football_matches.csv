@@ -1,0 +1,16 @@
+Attack_Score,Defense_Score,Home_Advantage,Match_Outcome
+92,89,1,Win
+88,82,1,Win
+85,89,0,Draw
+82,85,1,Draw
+81,86,0,Lose
+75,78,0,Lose
+90,85,1,Win
+87,83,0,Win
+84,80,1,Draw
+78,82,0,Lose
+94,88,1,Win
+86,82,0,Draw
+83,84,1,Draw
+80,85,0,Lose
+89,86,1,Win
